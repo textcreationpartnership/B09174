@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The further depositions and proceedings in the House of Lords in the affair of the Duke &amp; Dutchess of Norfolke.  With the bill of divorce</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09174</idno>
+            <idno type="STC">Wing F2556</idno>
+            <idno type="STC">ESTC R177282</idno>
+            <idno type="EEBO-CITATION">64551284</idno>
+            <idno type="OCLC">ocm 64551284</idno>
+            <idno type="VID">184584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184584)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The further depositions and proceedings in the House of Lords in the affair of the Duke &amp; Dutchess of Norfolke.  With the bill of divorce</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norfolk, Henry Howard, --  Duke of, 1655-1701.</term>
+               <term>Norfolk, Mary Howard, --  Duchess of, 1659?-1705.</term>
+               <term>Divorce --  England --  Early works to 1800.</term>
+               <term>Trials (Divorce) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184584:1"/>
+            <p>THE <hi>further Depoſitions</hi> AND PROCEEDINGS IN THE Houſe of Lords In the AFFAIR of the DUKE &amp; DUTCHESS OF NORFOLKE.</p>
+            <p>WITH THE BILL of DIVORCE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the YEAR, 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oath">
+            <pb facs="tcp:184584:2"/>
+            <pb n="3" facs="tcp:184584:2"/>
+            <head>The <hi>Oath</hi> Adminiſtred to the Duke of <hi>Norfolk</hi>'s Witneſses, before the Lords in Parliament.</head>
+            <p>YOU ſhall true Anſwer make to all ſuch Queſti<g ref="char:EOLhyphen"/>ons as ſhall be askt you by this Honourable Houſe, in Relation to the Charge of <hi>Adultery,</hi> brought in by the Duke of <hi>Norfolk,</hi> againſt the Dutcheſs of <hi>Norfolk,</hi> with <hi>John Germaine:</hi> You ſhall declare your whole knowledge of this Matter, and ſhall ſpeak the Truth, the whole Truth, and nothing but the Truth, as well
+<pb n="4" facs="tcp:184584:3"/>upon the Matter as you ſhall be Examined on behalf of his Grace the Duke of <hi>Norfolk,</hi> as upon ſuch Interrogatories as ſhall be Exhibited on behalf of the Dutcheſs of <hi>Norfolk,</hi> with<g ref="char:EOLhyphen"/>out Favour or Affection to ei<g ref="char:EOLhyphen"/>ther Party. <hi>So help you God, and by the Contents of this Book.</hi>
+            </p>
+         </div>
+         <div type="justification_for_bill">
+            <pb n="5" facs="tcp:184584:3"/>
+            <head>REASONS Offer'd to the <hi>Lords</hi> in <hi>Parliament</hi> For Receiving the following Bill of Divorce On the Behalf of his Grace the DUKE of NORFOLKE.</head>
+            <p>THE <hi>not having a Sentence for a Separation from the Eccle<g ref="char:EOLhyphen"/>ſiaſtical Court, is thought to be no Objection againſt the Receiving or Paſſing the Duke of</hi> Norfolke's <hi>Bill, for theſe</hi> Reaſons; <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. The <hi>Houſe</hi> proceeds, in this Caſe, in their Legiſlative, and
+<pb n="6" facs="tcp:184584:4"/>in their Judicial Capacity; and in their Legiſlative, all Things muſt proceed Originally, by Bill.</item>
+               <item>II. That a Sentence in the Ec<g ref="char:EOLhyphen"/>cleſiaſtical C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urt, can give the Duke no Relief, as to what he ſeeks by his Bill (<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) To Diſ<g ref="char:EOLhyphen"/>ſolve his Marriage, and Enable him to Marry again; but that Relief muſt ſpring originally from the <hi>Parliament,</hi> with<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t re<g ref="char:EOLhyphen"/>lation to the <hi>Eccleſiaſtical Court.</hi>
+               </item>
+               <item>III. That in Caſe there was ſuch a Sentence, yet it would afford no Aſſiſtance in this Caſe: For
+<pb n="7" facs="tcp:184584:4"/>the <hi>Parliament,</hi> in Caſes of this Nature, do not rely upon any ſuch Sentence, for a ſatisfacto<g ref="char:EOLhyphen"/>ry Proof of the Fact; but hear Witneſſes <hi>viva voce,</hi> and there<g ref="char:EOLhyphen"/>upon proceed.</item>
+               <item>IV. That there <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Witneſſes <hi>now</hi> living, to prove the Fact, which may be Examined <hi>viva voce;</hi> whereas, if they <hi>die</hi> during the tedious Proceeding in any In<g ref="char:EOLhyphen"/>feriour Court, then there can be no other Proof, but <hi>Depoſiti<g ref="char:EOLhyphen"/>ons</hi> taken in Writing.</item>
+               <item>V. That Mrs. <hi>Wharton</hi>'s Caſe was receiv'd <hi>Originally</hi> in <hi>Parliament.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="document">
+            <pb n="8" facs="tcp:184584:5"/>
+            <head>The BILL brought into the Houſe of Lords, by his Grace the Duke of <hi>Norfolk,</hi> for Diſſolving the Marriage with the <hi>Dutcheſs,</hi> and to Enable him to Marry again; which was Read once, and after<g ref="char:EOLhyphen"/>wards Thrown out.</head>
+            <p>FORASM<g ref="char:V">Ʋ</g>CH as <hi>Henry</hi> Duke of <hi>Norfolk,</hi> and Earl Marſhal of <hi>England,</hi> having been Married to the Lady <hi>Mary Mordant,</hi> hath made full Proof, that his ſaid Wife, is Guilty of, and hath commit<g ref="char:EOLhyphen"/>ted <hi>Adultery</hi> on her part: And foraſmuch as the ſaid <hi>Henry</hi> Duke of <hi>Norfolk,</hi> hath no Iſſue, nor can have any probable Ex<g ref="char:EOLhyphen"/>pectation of Poſterity to Succeed him in his Honours, Dignities, and Estate, unleſs the ſaid Marriage be de<g ref="char:EOLhyphen"/>clared void by Autho<g ref="char:EOLhyphen"/>rity of Parliament, and the ſaid Duke be enabled to Marry any other Woman. The King &amp; Queens, moſt Excellent Majeſties, upon the Humble Pe<g ref="char:EOLhyphen"/>tition of the ſaid
+<pb n="9" facs="tcp:184584:5"/>
+               <hi>Henry</hi> Duke of <hi>Nor<g ref="char:EOLhyphen"/>folke,</hi> having taken the Premiſes into their Royal Conſideration, for divers weighty Reaſons, are pleaſed, That it be Enacted; And be it Enacted by the King and Queens moſt Excellent Maje<g ref="char:EOLhyphen"/>ſties, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this pre<g ref="char:EOLhyphen"/>ſent Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, and by the Authority of the ſame, That the ſaid Marri<g ref="char:EOLhyphen"/>age between the ſaid <hi>Henry</hi> Duke of <hi>Nor<g ref="char:EOLhyphen"/>folke,</hi> and the ſaid Lady <hi>Mary</hi> his Wife, ſhall from henceforth be null and avoid; and is, by Authority of the Preſent <hi>Parliament,</hi> Declared, Adjudged, and Enacted to be null &amp; void, to all Intents, Conſtructions, &amp; Pur<g ref="char:EOLhyphen"/>poſes whatſoever. And that it ſhall and may be lawful to, and for the ſaid <hi>Henry</hi> Duke of <hi>Norfolke,</hi> at any time or times hereafter to contract Matrimony, and to Marry (as well in the Life-time of the ſaid Lady <hi>Mary,</hi> as if ſhe were Naturally dead) with any other woman or women, with whom he might law<g ref="char:EOLhyphen"/>fully marry, in caſe the ſaid Lady <hi>Mary</hi> was not living. And that
+<pb n="10" facs="tcp:184584:6"/>ſuch Matrimony when had, and celebrated, ſhall be a good, juſt &amp; lawful Marriage; and ſo ſhall be adjudged, deemed, and taken, to all intents, conſtructi<g ref="char:EOLhyphen"/>ons, and purpoſes. And that all &amp; every Chil<g ref="char:EOLhyphen"/>dren, and Child, born in ſuch Matrimony, ſhall be deemed, ad<g ref="char:EOLhyphen"/>judged, and taken to be born in lawful Wed<g ref="char:EOLhyphen"/>lock, and to be legiti<g ref="char:EOLhyphen"/>mate and inheritable; and ſhall inherit the ſaid Dukedom of <hi>Nor<g ref="char:EOLhyphen"/>folke,</hi> Office of Earl-Marſhal of <hi>England,</hi> &amp; all other Earldoms, Dignities, Baronies, Honours, and Titles of Honour, Lands, Tene<g ref="char:EOLhyphen"/>ments, and other He<g ref="char:EOLhyphen"/>reditaments, from and by their Fathers, Mo<g ref="char:EOLhyphen"/>thers, and other Ance<g ref="char:EOLhyphen"/>ſtors, in like manner and form, as any other Child, or Children, born in lawful Matrimony, ſhall or may inherit, or be inheritable, accord<g ref="char:EOLhyphen"/>ing to the courſe of In<g ref="char:EOLhyphen"/>heritances us'd in the Realm: And to have and enjoy all privile<g ref="char:EOLhyphen"/>ges, preheminences, be<g ref="char:EOLhyphen"/>nefits, Advantages, Claimes, and demands, as any other Child, or Children, born in law<g ref="char:EOLhyphen"/>ful Wedlock, may have or claim by the Laws or Cuſtomes of this Kingdom. And be it further enacted, That
+<pb n="11" facs="tcp:184584:6"/>the ſaid <hi>Henry</hi> Duke if <hi>Norfolke,</hi> ſhall be entituled to be Tenant by Courteſie, of the lands and Inheritances of ſuch Wife, whom be ſhall hereafter marry: And ſuch Wife as he ſhall ſo marry, ſhall be entitled to Dower of the lands and Tene<g ref="char:EOLhyphen"/>ments, whereof the ſaid <hi>Henry</hi> Duke of <hi>Norfolke</hi> ſhall be ſei<g ref="char:EOLhyphen"/>zed of ſuch eſtate, whereof ſhe ſhall be dowable, as any other Husband or Wife may or might claim, have or enjoy; and the Child or Children born in ſuch marriage, ſhall and may derive, and make Title, by deſcent or otherwiſe, to and from any of their An<g ref="char:EOLhyphen"/>ceſtors, as any other Child or Children may do, any Law, Statute, Reſtraint, Prohibition, Ordinance, Canon, Con<g ref="char:EOLhyphen"/>ſtitution, Preſcription or Cuſtom, had, made, exerciſed, or uſed to the contrary of the Pre<g ref="char:EOLhyphen"/>miſes, or any of them in any wiſe, notwith<g ref="char:EOLhyphen"/>ſtanding. And be it further enacted, by the Authority aforeſaid, That the ſaid Lady <hi>Mary</hi> ſhall be, and is hereby barred and ex<g ref="char:EOLhyphen"/>cluded of and from all Power and Thirds, and of and from all Right and Title of Power and Thirds
+<pb n="12" facs="tcp:184584:7"/>unto, or out of any of the honours, mannours, lands, or hereditaments of the ſaid Duke; and that all Conveyances, Joyntures, Settlements Limitations and Crea<g ref="char:EOLhyphen"/>tions of uſes, and truſts of, into, or out of any honours, mannours, lands or hereditaments at any time heretofore made by the ſaid Duke or any of his Anceſtors or Truſtees unto or up<g ref="char:EOLhyphen"/>on, or for the uſe or benefit of the ſaid La<g ref="char:EOLhyphen"/>dy <hi>Mary,</hi> or any iſſue of her Body, or for ea<g ref="char:EOLhyphen"/>ſing, diſcharging, or counter-ſecuring any the mannours, lands, or hereditaments of the ſaid Lady <hi>Mary,</hi> or a<g ref="char:EOLhyphen"/>ny of her Anceſtours, ſhall be from hence<g ref="char:EOLhyphen"/>forth utterly void, and of none effect: And all and every the ſaid honours, mannours, lands or hereditaments of the ſaid Duke, or any of his Anceſtors or Truſtees, ſhall from henceforth remain and be to and for the uſe and benefit of the ſaid Duke, and ſuch other perſon or perſons, and for ſuch eſtates and intereſts, and in ſuch manner and form, as if the ſaid Lady <hi>Mary</hi> was now naturally dead, without any Iſ<g ref="char:EOLhyphen"/>ſue of her Body: And alſo, that all Limita<g ref="char:EOLhyphen"/>tions and Creations of
+<pb n="13" facs="tcp:184584:7"/>any uſe, eſtate, power or truſt made by any the anceſtors of the <hi>ſaid</hi> Lady <hi>Mary</hi> unto or for the uſe or benefit of the ſaid Duke, his Heirs, or Aſſignes, out of any the mannours, lands or hereditaments of any the Anceſtors of the ſaid Lady <hi>Mary,</hi> ſhall be from hence<g ref="char:EOLhyphen"/>forth void, and of none effect.</p>
+         </div>
+         <div type="depositions">
+            <pb n="14" facs="tcp:184584:8"/>
+            <head>Depoſitions.</head>
+            <p>
+               <hi>RObert Welbourne</hi> ſaith, That about the middle of <hi>No<g ref="char:EOLhyphen"/>vember</hi> laſt, the Duke of <hi>Norfolk</hi> ſent for him by Mr. <hi>Scott,</hi> to meet his Grace in his Room by the Lords Houſe, which accordingly he did; his Grace told him, there had been ſome Meſſages and Propoſals by Sir <hi>Robert Clayton,</hi> and Sir <hi>Robert Howard,</hi> but he look'd on them both, to be Men of great Buſineſs, and could not attend upon ſuch Matters, and there<g ref="char:EOLhyphen"/>fore he ſent for him, the Witneſs, knowing him to be capable to underſtand, and willing to do any Ser<g ref="char:EOLhyphen"/>vice between Us: The firſt thing his Grace de<g ref="char:EOLhyphen"/>ſired, was to acquaint his Wife, and the Lady <hi>Peter<g ref="char:EOLhyphen"/>borough,</hi> and I think he named the Lord <hi>Peter<g ref="char:EOLhyphen"/>borough,</hi> that he expected to be indemnified from the Dutcheſſes Equipage; for, ſays he, I hear She is ſetting up a great Equi<g ref="char:EOLhyphen"/>page, and I deſire to be free from being obliged to pay for any of that; he, the Witneſs, told his Grace, That he thought he was miſ-inform'd, for all the Equipage, he the Witneſs ſaw, was a Coach, a Coachman, two Foot<g ref="char:EOLhyphen"/>men, a pair of Horſes, and two or three more Ser<g ref="char:EOLhyphen"/>vants: But ſays his Grace, I formerly paid Money for Her to one <hi>Mourton,</hi> and ſhould be unwilling to do ſo again; I preſume my Lord Duke, ſaid the Witneſs, that was a Debt contracted while your Grace and the Dutcheſs liv'd together: But ſays his Grace, My Wife has ſome pretentions to <hi>Caſtle Riſing,</hi> which I could ſell without her conſent, by looſing 2000, or 2500 <hi>l.</hi> and beſides, I very lately
+<pb n="15" facs="tcp:184584:8"/>find, ſhe hath alſo a pre<g ref="char:EOLhyphen"/>tention upon <hi>Billing,</hi> which I never knew till very lately, when I was upon Selling of that Re<g ref="char:EOLhyphen"/>verſion; but I ſhould have been an ill Man to pretend to do that, if I had known of any ſuch Incumbrance: Therefore I would have you tell my Wife, that if ſhe will con<g ref="char:EOLhyphen"/>ſent to the Sale of thoſe Eſtates, and make me eaſie in that particular, let her conſider wherein I may make her eaſie, and I ſhall do it: I know ſhe was a great Lover of <hi>Drayton,</hi> and I ſuppoſe is ſo ſtill, and She once of<g ref="char:EOLhyphen"/>fer me a conſiderable Sum of Money for my Life in it: Therefore, let her conſider of this Matter, and if ſhe can propoſe any thing for her eaſe and quiet on theſe Terms, I ſhall comply with her; I do not ſay it to Threaten her; but I am told, that for the reaſon of there being either Twenty one, or Twenty two Catholick Heirs of my Family, be<g ref="char:EOLhyphen"/>fore one Proteſtant one; If I would—<hi>(here his Grace ſtopt) Says his Grace,</hi> You underſtand me: <hi>But he, the Witneſs, making no Anſwer, his Grace was pleaſed to ſay again,</hi> If I would bring a Bill of Di<g ref="char:EOLhyphen"/>vorce, I ſhould obtain it on that Account: He the Witneſs, told his Grace, I ſhould be ſorry to hear of any ſuch thing; but in Obedience to his Graces Commands, his would acquaint the Dut<g ref="char:EOLhyphen"/>cheſs with it, and accor<g ref="char:EOLhyphen"/>dingly he did the ſame day, and Lady <hi>Peterbo<g ref="char:EOLhyphen"/>rough</hi> both: Her Grace was very Angry at the Meſſage, eſpecially with that part that mentioned; and he the Witneſs was ſent the next Morning to
+<pb n="16" facs="tcp:184584:9"/>Mr. <hi>Scott</hi> to deſire him to acquaint the Duke, That as he was my Lord <hi>Peter<g ref="char:EOLhyphen"/>borough</hi>'s Serv<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, it was not fit for him to receive nor bring ſuch Meſſages; but if his Grace had any thing to ſay, it was moſt proper by a Servant of his own, or to ſend for one of her's: I carryed the Meſſage next Morn<g ref="char:EOLhyphen"/>ing to Mr. <hi>Scott,</hi> and at my return Home, the Dutcheſs ſhewed me a Letter ſhe had writ to the Duke to the ſame pur<g ref="char:EOLhyphen"/>poſe, and which was ſe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to his Grace, but not <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him the Witneſs: Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dutcheſs did declare when the Witneſs propo<g ref="char:EOLunhyphen"/>ſed the Sale of <hi>Caſtle-Ri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſing</hi> and <hi>Billing,</hi> as the Duke had deſired, That ſhe would never Conſent. By any of this Diſcourſe, it did not appear to him, the Witneſs, that the Duke ſhewed any Inclina<g ref="char:EOLhyphen"/>nations to live with the Dutcheſs; nor did he the Witneſs underſtand it ſo.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTCRIPT.</head>
+            <p>THE Witneſſes to prove ſeveral Matters of Fact in <hi>1690.</hi> and <hi>1691.</hi> were not Examin'd, the for<g ref="char:EOLhyphen"/>mer being thought ſufficient; only <hi>Mary Elliot</hi> being Interrogated by the Council, declared farther, That ſhe ſaw Mr. <hi>Germain's</hi> Y—d come from the <hi>Dutcheſs</hi> Reeking, ſlimy, and limber, caſting his Sp—m about the Room.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
